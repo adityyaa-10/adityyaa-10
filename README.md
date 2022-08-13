@@ -22,11 +22,13 @@
 
 <div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&locale=en" alt="adityyaa-10" /></p>
+<a href="https://github.com/adityyaa-10">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Aditya's github stats"/>
+</a>
  
 ![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityyaa-10&theme=react-dark&hide_border=true&area=true)
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityyaa-10&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityyaa-10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
 
 </div>
