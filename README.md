@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
-<h3 align="center">A developer from India.</h3>
+<h3 align="center">Currently a beginner</h3>
 
 <p align="left"> <a href="https://twitter.com/adityyaa_10" target="blank"><img src="https://img.shields.io/twitter/follow/adityyaa_10?logo=twitter&style=for-the-badge" alt="adityyaa_10" /></a> </p>
 
@@ -23,12 +23,14 @@
 <div align="center">
 
 <a href="https://github.com/adityyaa-10">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Aditya's github stats"/>
+ <img height=180px src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Aditya's Github Stats" />
+ 
+ <img height=180px src="https://github-readme-streak-stats.herokuapp.com?user=adityyaa-10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)"/>
 </a>
  
 ![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityyaa-10&theme=react-dark&hide_border=true&area=true)
  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityyaa-10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+
 
 
 </div>
