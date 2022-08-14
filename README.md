@@ -22,15 +22,14 @@
 
 <div align="center">
 
-<a href="https://github.com/adityyaa-10">
- <img height=180px src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Aditya's Github Stats" />
- 
- <img height=180px src="https://github-readme-streak-stats.herokuapp.com?user=adityyaa-10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)"/>
-</a>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&custom_title=Aditya's+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityyaa-10&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
+  
+</div> 
  
 ![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityyaa-10&theme=react-dark&hide_border=true&area=true)
  
 
 
 
-</div>
+
