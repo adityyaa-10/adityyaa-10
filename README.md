@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
 <h3 align="center">Currently a beginner</h3>
 
-<p align="left"> <a href="https://twitter.com/adityyaa_10" target="blank"><img src="https://img.shields.io/twitter/follow/adityyaa_10?logo=twitter&style=for-the-badge" alt="adityyaa_10" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
