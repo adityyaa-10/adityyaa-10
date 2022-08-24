@@ -18,13 +18,12 @@
 
 <div align="center">
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&theme=github_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityyaa-10&theme=github-dark-blue)](https://git.io/streak-stats)
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&theme=github_dark"/>
+  
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityyaa-10&theme=github-dark-blue"/>
   
 </div> 
  
-
-
 
 
 
