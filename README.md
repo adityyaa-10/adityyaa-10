@@ -24,7 +24,7 @@
   
 </div> 
 
-[![Adi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityyaa-10&theme=react-dark)](https://github.com/adityyaa-10/github-readme-activity-graph)
+<img height="330px"  align="center" src="https://activity-graph.herokuapp.com/graph?username=adityyaa-10&theme=react-dark&hide_border=true&bg_color=00000000"/>
  
 
 
