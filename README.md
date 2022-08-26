@@ -23,6 +23,8 @@
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityyaa-10&theme=github-dark-blue"/>
   
 </div> 
+
+[![Adi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityyaa-10&theme=react-dark)](https://github.com/adityyaa-10/github-readme-activity-graph)
  
 
 
