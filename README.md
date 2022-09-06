@@ -38,8 +38,6 @@
 
 
 
-</p>
+</p> 
 
-<!-- 
-
-<div width="100%" align="center"><a href="https://github.com/adityyaa-10/Quotes-In-Naruto" align="left"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=adityyaa-10&repo=Quotes-In-Naruto&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=00000000&hide_border=true&locale=en" /></a><a href="https://github.com/adityyaa-10/Dummy-Gym-Website" align="right"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=adityyaa-10&repo=Dummy-Gym-Website&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=00000000&hide_border=true&locale=en" /></a></div> -->
+<div width="100%" align="center"><a href="https://github.com/adityyaa-10/Quotes-In-Naruto" align="left"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=adityyaa-10&repo=Quotes-In-Naruto&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=00000000&hide_border=true&locale=en" /></a><a href="https://github.com/adityyaa-10/Dummy-Gym-Website" align="right"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=adityyaa-10&repo=Dummy-Gym-Website&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=00000000&hide_border=true&locale=en" /></a></div> 
