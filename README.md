@@ -39,6 +39,7 @@
 <img width="875px" src="https://activity-graph.herokuapp.com/graph?username=adityyaa-10&bg_color=0d1117&color=ffffff&line=ef4444&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 
+<p ><a align="right" href="https://www.buymeacoffee.com/adityyaa10"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityyaa10" /></a></p>
 
 </p> 
 
