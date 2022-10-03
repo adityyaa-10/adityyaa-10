@@ -40,9 +40,6 @@
 <img width="875px" src="https://activity-graph.herokuapp.com/graph?username=adityyaa-10&bg_color=0d1117&color=ffffff&line=ef4444&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 
-<!--<p ><a align="right" href="https://www.buymeacoffee.com/adityyaa10"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityyaa10" /></a></p>
--->
+<p ><a align="right" href="https://www.buymeacoffee.com/adityyaa10"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityyaa10" /></a></p>
 </p> 
-
-<!-- <div width="100%" align="center"><a href="https://github.com/adityyaa-10/Quotes-In-Naruto" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityyaa-10&repo=Quotes-In-Naruto&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en" /></a><a href="https://github.com/adityyaa-10/Dummy-Gym-Website" align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityyaa-10&repo=Dummy-Gym-Website&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&locale=en" /></a></div> -->
 
