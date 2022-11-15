@@ -5,8 +5,7 @@
 
 
 * 🌍  I'm based in **India**
-* 🧠  I'm learning **JavaScript and Front-end Libraries ReactJS & NextJS**
-
+* 🧠  I'm learning **JavaScript and ReactJS**
 
 ### Skills
 
