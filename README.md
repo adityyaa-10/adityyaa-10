@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋 I'm Aditya Pandey</h1>
-
-
-<h2 align="center">Frontend Developer | Open Source Enthusiast</h2>
-
+![Black Modern Freelance Designer Twitter Header](https://user-images.githubusercontent.com/103577578/205502602-5f61b961-4917-4a70-916b-48d56f5d6b51.png)
 
 * 🌍  I'm based in **India**
 * 🧠  I'm learning **JavaScript and ReactJS**
