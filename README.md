@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋 My name is Aditya Pandey | Front-End Web developer | CS Sophomore </h2>
+<h2 align="center">  Aditya Pandey | Front-End Web developer | CS Sophomore </h2>
 
 <div  align="center">
 <img width="900px" src="https://user-images.githubusercontent.com/103577578/205502602-5f61b961-4917-4a70-916b-48d56f5d6b51.png">
