@@ -8,7 +8,6 @@
 <br/>
 
 * 🌍  I'm based in India
-* 🖥️  See my [Portfolio](http://https://adityyaa.netlify.app/)
 * ✉️  You can contact me at [aditya.pandey.241103@gmail.com](mailto:aditya.pandey.241103@gmail.com)
 * 🧠  I'm learning NextJs and TypeScript
 * 🤝  I'm open to collaborating on ReactJS and NextJS projects
