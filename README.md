@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aditya.pandey.241103@gmail.com](mailto:aditya.pandey.241103@gmail.com)
-* 🧠  I'm learning Backend Development using NodeJS and ExpressJS
+* 🧠  I'm learning Data Structures and Algorithms using C++
 * 🤝  I'm open to collaborating on ReactJS and NextJS projects
 
 
