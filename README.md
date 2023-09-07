@@ -46,6 +46,3 @@
 <a width="320px"><img src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&show_icons=true" alt="adityyaa-10's GitHub stats" /></div>
 <a width="320px""><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityyaa-10&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></div>
 </p>
-
-
-<p ><a align="right" href="https://www.buymeacoffee.com/adityyaa10"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityyaa10" /></a></p>
