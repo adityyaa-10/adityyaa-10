@@ -1,4 +1,4 @@
-<h2 align="center">  Aditya Pandey | Full Stack MERN Developer in Progress!</h2>
+<h2 align="center">  Aditya Pandey | Full Stack Developer | Computer Science Undergrad </h2>
 
 
 <br/>
