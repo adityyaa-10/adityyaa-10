@@ -29,13 +29,3 @@
 
 <p><a href="https://www.linkedin.com/in/adityyaa10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19778067" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/adityyaa_10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://discord.com/users/adityyaa10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
 
-### Stats
-
-</br>
-
-<p align="center">
-<a width="320px"><img src="https://github-readme-stats.vercel.app/api?username=adityyaa-10&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&show_icons=true" alt="adityyaa-10's GitHub stats" /></div>
-<a width="320px""><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityyaa-10&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></div>
-</p>
-
-
